@@ -1,6 +1,7 @@
 /*.dll
 *.exe
 *.log
+*.env
 server.cfg
 node_modules/
 /modules/
